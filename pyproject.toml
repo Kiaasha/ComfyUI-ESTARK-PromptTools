@@ -1,0 +1,13 @@
+[project]
+name = "estark-prompttools"
+description = "Keep several named prompts in one workflow and pick which one runs from a live dropdown."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Kiaasha/ComfyUI-ESTARK-PromptTools"
+
+[tool.comfy]
+PublisherId = "kiaasha"
+DisplayName = "ESTARK Prompt Tools"
